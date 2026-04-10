@@ -4,7 +4,7 @@
 
 > **CLASSIFICAÇÃO:** RESTRITO  
 > **STATUS:** PARCIALMENTE CORROMPIDO  
-> **AUTOR:** [████████████████████ ████████]  
+> **AUTOR:** [██████ ████████]  
 > **DATA:** 17/██/20██  
 > **ORIGEM:** Sistema Interno — Mindflow  
 
