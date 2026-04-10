@@ -70,6 +70,6 @@ Logs interceptados mostram respostas incomuns:
 "memory_sync": true
 }
 
-"senha incorreta, mas identidade confirmada"
-[ACESSO NÃO PERMITIDO]
-"usuário observado"
+"incorrect password, but identity confirmed"
+[ACCESS NOT ALLOWED]
+"user monitored"
